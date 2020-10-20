@@ -1,6 +1,6 @@
 # library-of-juggling-to-trello
 
-The Library of Juggling has a superb collection of juggling tricks with expressive GIFs to show you how to learn the trick.
+The [Library of Juggling](https://libraryofjuggling.com/TricksByDifficulty.html) has a superb collection of juggling tricks with expressive GIFs to show you how to learn the trick.
 So I thought How about to have a Trello board to keep track of my learning experience and here we are.
 
 #### Get API Information
