@@ -1,5 +1,8 @@
 # library-of-juggling-to-trello
 
+The Library of Juggling has a superb collection of juggling tricks with expressive GIFs to show you how to learn the trick.
+So I thought How about to have a Trello board to keep track of my learning experience and here we are.
+
 1. Get API Information
 Go to `https://trello.com/app-key` and get *API key*, *API secret* and *token* from there. 
 I found it kind of confusing so stick to my screenshot (it is in German, but you will recognize what you need).
