@@ -3,6 +3,8 @@
 The [Library of Juggling](https://libraryofjuggling.com/TricksByDifficulty.html) has a superb collection of juggling tricks with expressive GIFs to show you how to learn the trick.
 So I thought How about to have a Trello board to keep track of my learning experience and here we are.
 
+![Profit!](docs/profit.gif)
+
 #### Get API Information
 
 Go to `https://trello.com/app-key` and get *API key*, *API secret* and *token* from there. 
@@ -26,7 +28,3 @@ I could not figure out how to add a color to the labels, so please do the dirty 
 #### Give Board a Background
 
 Give your Trello board a fitting background image (hint: search for `balls`, not `juggling`).
-
-#### Profit
-
-![Profit!](docs/profit.gif)
