@@ -1,0 +1,2 @@
+py-trello==0.17.1
+beautifulsoup4==4.9.3
